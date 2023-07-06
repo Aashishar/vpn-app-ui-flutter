@@ -4,13 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is made by Aashish aryal
 
-A few resources to get you started if this is your first Flutter project:
+here is the design file of this ui of vpn application
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://www.figma.com/file/J3RctoW8p9sXauuBQW0BRP/%F0%9F%8C%8E-VPNTree.-Mobile-App-UI-(Community)?type=design&node-id=2-556&mode=design&t=b0xvWSZtFUvnIG2m-0
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+.
